@@ -29,6 +29,7 @@ export const Header = () => {
           <li><a href="#volunteer">Volunteer</a></li>
           <li><a href="https://forms.gle/pK6fb7YfQMWqNnRC7" target="_blank">Need Help?</a></li>
           <li><a href="https://github.com/nourimeals/documents/tree/master/Webinars" target="_blank">Resources</a></li>
+          <li><a href="https://medium.com/@teamnouri" target="_blank">Blog</a></li>
           <a href="https://donorbox.org/nouri" target="_blank"><button className="btn-container">donate</button></a>
         </ul>
 
